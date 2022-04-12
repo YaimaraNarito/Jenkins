@@ -1,5 +1,5 @@
 
 
 echo "Hello World"
-"testing hook-trigger"
-"More testing with hook-triggers"
+echo "testing hook-trigger"
+echo "More testing with hook-triggers"
